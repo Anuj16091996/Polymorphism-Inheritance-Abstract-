@@ -1,0 +1,7 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Chapter_4_code\bin\Debug\Chapter_4_code.exe.config
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Chapter_4_code\bin\Debug\Chapter_4_code.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Chapter_4_code\bin\Debug\Chapter_4_code.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Chapter_4_code\obj\Debug\Chapter_4_code.csproj.AssemblyReference.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Chapter_4_code\obj\Debug\Chapter_4_code.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Chapter_4_code\obj\Debug\Chapter_4_code.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Chapter_4_code\obj\Debug\Chapter_4_code.pdb

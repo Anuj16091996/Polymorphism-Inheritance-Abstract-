@@ -1,0 +1,7 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Array_Execrise\bin\Debug\Array_Execrise.exe.config
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Array_Execrise\bin\Debug\Array_Execrise.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Array_Execrise\bin\Debug\Array_Execrise.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Array_Execrise\obj\Debug\Array_Execrise.csproj.AssemblyReference.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Array_Execrise\obj\Debug\Array_Execrise.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Array_Execrise\obj\Debug\Array_Execrise.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Array_Execrise\obj\Debug\Array_Execrise.pdb

@@ -1,0 +1,7 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Oops_concept\bin\Debug\Oops_concept.exe.config
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Oops_concept\bin\Debug\Oops_concept.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Oops_concept\bin\Debug\Oops_concept.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Oops_concept\obj\Debug\Oops_concept.csproj.AssemblyReference.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Oops_concept\obj\Debug\Oops_concept.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Oops_concept\obj\Debug\Oops_concept.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Oops_concept\obj\Debug\Oops_concept.pdb

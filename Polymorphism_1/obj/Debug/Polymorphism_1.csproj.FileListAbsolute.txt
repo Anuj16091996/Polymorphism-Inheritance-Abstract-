@@ -1,0 +1,6 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Polymorphism_1\bin\Debug\Polymorphism_1.exe.config
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Polymorphism_1\bin\Debug\Polymorphism_1.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Polymorphism_1\bin\Debug\Polymorphism_1.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Polymorphism_1\obj\Debug\Polymorphism_1.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Polymorphism_1\obj\Debug\Polymorphism_1.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Polymorphism_1\obj\Debug\Polymorphism_1.pdb
