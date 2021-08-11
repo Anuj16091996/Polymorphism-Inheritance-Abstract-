@@ -54,6 +54,7 @@
     <Compile Include="Tomcat.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Animals.cd" />
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

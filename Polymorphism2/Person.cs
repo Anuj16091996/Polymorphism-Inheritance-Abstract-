@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace Polymorphism2
 {
-    class Program
+    class Person
     {
-        static void Main(string[] args)
+        public string UseKitchenAppliance(KitchenAppliance ka)
         {
-            Person_Object po = new Person_Object();
-
-            po.started();
+            return ka.PowerOn();
         }
     }
 }
