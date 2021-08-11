@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Polymorphism_1
 {
-    class Dog : Animals
+    class Frog:Animals
     {
-        public Dog(int age, string name, string gender)
+        public Frog(int age, string name, string gender)
         {
             Age = age;
             Name = name;
@@ -18,9 +18,9 @@ namespace Polymorphism_1
 
         public override string Noise()
         {
-            return "Dog Make Bow Bow Noise";
+            return "Frow Make Trr Trr Noise";
         }
 
-
     }
+
 }

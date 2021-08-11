@@ -6,21 +6,18 @@ using System.Threading.Tasks;
 
 namespace Polymorphism_1
 {
-    class Dog : Animals
+    class Cat:Animals
     {
-        public Dog(int age, string name, string gender)
+        public Cat(int age, string name, string gender)
         {
             Age = age;
             Name = name;
             Gender = gender;
 
         }
-
         public override string Noise()
         {
-            return "Dog Make Bow Bow Noise";
+            return "Cat Make Meow Meow Noise";
         }
-
-
     }
 }

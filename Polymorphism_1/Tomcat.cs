@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Polymorphism_1
 {
-    class Dog : Animals
+    class Tomcat:Animals
     {
-        public Dog(int age, string name, string gender)
+
+        public Tomcat(int age, string name, string gender)
         {
             Age = age;
             Name = name;
@@ -16,11 +17,10 @@ namespace Polymorphism_1
 
         }
 
-        public override string Noise()
-        {
-            return "Dog Make Bow Bow Noise";
-        }
-
-
+    public override string Noise()
+    {
+        return "Tomcat Make Moew Meeow Noise";
     }
+
+}
 }
