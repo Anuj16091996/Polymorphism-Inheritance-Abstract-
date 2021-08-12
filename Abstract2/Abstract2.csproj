@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B26EA5DE-EEBE-46FB-87C6-5BE285BB8018}</ProjectGuid>
+    <ProjectGuid>{6C64B5BE-C47F-4185-A43B-5D7129E13655}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Interface</RootNamespace>
-    <AssemblyName>Interface</AssemblyName>
+    <RootNamespace>Abstract2</RootNamespace>
+    <AssemblyName>Abstract2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Charging.cs" />
-    <Compile Include="Desktop.cs" />
-    <Compile Include="Earphone.cs" />
-    <Compile Include="ICodeChecker.cs" />
-    <Compile Include="Laptop.cs" />
+    <Compile Include="Computer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
+    <Compile Include="SmartPhone.cs" />
+    <Compile Include="StorageDevice.cs" />
+    <Compile Include="Testclass.cs" />
+    <Compile Include="USBDisk.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,0 +1,7 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Interface_Chapter6\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Interface_Chapter6\bin\Debug\Interface_Chapter6.exe.config
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Interface_Chapter6\bin\Debug\Interface_Chapter6.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Interface_Chapter6\bin\Debug\Interface_Chapter6.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Interface_Chapter6\obj\Debug\Interface_Chapter6.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Interface_Chapter6\obj\Debug\Interface_Chapter6.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Interface_Chapter6\obj\Debug\Interface1.csproj.AssemblyReference.cache
