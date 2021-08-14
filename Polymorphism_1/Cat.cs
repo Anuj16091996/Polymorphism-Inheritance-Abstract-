@@ -8,6 +8,7 @@ namespace Polymorphism_1
 {
     class Cat:Animals
     {
+        
         public Cat(int age, string name, string gender)
         {
             Age = age;

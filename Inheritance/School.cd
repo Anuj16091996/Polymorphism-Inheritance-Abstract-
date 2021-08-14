@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Inheritance.School">
-    <Position X="4.5" Y="0.5" Width="1.25" />
+    <Position X="2.5" Y="0.75" Width="1.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>School.cs</FileName>
@@ -11,7 +11,7 @@
     </ShowAsCollectionAssociation>
   </Class>
   <Class Name="Inheritance.Student">
-    <Position X="1.25" Y="3" Width="1.5" />
+    <Position X="0.5" Y="2.5" Width="1.5" />
     <Members>
       <Field Name="Courses" Hidden="true" />
       <Property Name="Name" Hidden="true" />
@@ -26,7 +26,7 @@
     </ShowAsAssociation>
   </Class>
   <Class Name="Inheritance.Teacher">
-    <Position X="6.5" Y="3" Width="1.5" />
+    <Position X="4.75" Y="2.25" Width="1.5" />
     <Members>
       <Field Name="Course" Hidden="true" />
     </Members>
@@ -39,7 +39,7 @@
     </ShowAsAssociation>
   </Class>
   <Class Name="Inheritance.Classes">
-    <Position X="4.5" Y="1.75" Width="1.25" />
+    <Position X="2.5" Y="2.5" Width="1.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhACAAA=</HashCode>
       <FileName>Classes.cs</FileName>
@@ -50,7 +50,7 @@
     </ShowAsCollectionAssociation>
   </Class>
   <Class Name="Inheritance.Courses" Collapsed="true">
-    <Position X="4.5" Y="5.5" Width="1.5" />
+    <Position X="2.25" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAE=</HashCode>
       <FileName>Courses.cs</FileName>

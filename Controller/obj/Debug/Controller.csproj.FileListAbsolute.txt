@@ -1,0 +1,11 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Controller\bin\Debug\Controller.dll
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Controller\bin\Debug\Controller.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Controller\bin\Debug\Data Acess Layer.dll
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Controller\bin\Debug\Model.dll
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Controller\bin\Debug\Data Acess Layer.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Controller\bin\Debug\Model.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Controller\obj\Debug\Controller.dll
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Controller\obj\Debug\Controller.pdb

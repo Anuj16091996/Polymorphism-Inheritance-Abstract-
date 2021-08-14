@@ -1,0 +1,7 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\TeacherSick\bin\Debug\TeacherSick.exe.config
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\TeacherSick\bin\Debug\TeacherSick.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\TeacherSick\bin\Debug\TeacherSick.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\TeacherSick\obj\Debug\TeacherSick.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\TeacherSick\obj\Debug\TeacherSick.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\TeacherSick\obj\Debug\TeacherSick.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\TeacherSick\obj\Debug\TeacherSick.csproj.AssemblyReference.cache

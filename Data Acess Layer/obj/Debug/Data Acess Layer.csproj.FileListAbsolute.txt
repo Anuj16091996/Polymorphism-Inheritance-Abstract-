@@ -1,0 +1,9 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Data Acess Layer\bin\Debug\Data Acess Layer.dll
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Data Acess Layer\bin\Debug\Data Acess Layer.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Data Acess Layer\bin\Debug\Model.dll
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Data Acess Layer\bin\Debug\Model.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Data Acess Layer\obj\Debug\Data Acess Layer.csproj.AssemblyReference.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Data Acess Layer\obj\Debug\Data Acess Layer.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Data Acess Layer\obj\Debug\Data Acess Layer.csproj.CopyComplete
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Data Acess Layer\obj\Debug\Data Acess Layer.dll
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Data Acess Layer\obj\Debug\Data Acess Layer.pdb

@@ -1,0 +1,6 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model\bin\Debug\Model.dll
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model\bin\Debug\Model.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model\obj\Debug\Model.dll
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model\obj\Debug\Model.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model\obj\Debug\Model.csproj.AssemblyReference.cache
