@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2A75DEE3-E3BD-47E0-B6A1-431ACF0DF6D3}</ProjectGuid>
+    <ProjectGuid>{472E8B90-1CBE-4B82-A139-CBC88B264BF4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TeacherSick</RootNamespace>
-    <AssemblyName>TeacherSick</AssemblyName>
+    <RootNamespace>ArrayList</RootNamespace>
+    <AssemblyName>ArrayList</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Accountant.cs" />
-    <Compile Include="Director.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SchoolReceptionist.cs" />
     <Compile Include="Student.cs" />
-    <Compile Include="Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <Compile Include="isSick.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

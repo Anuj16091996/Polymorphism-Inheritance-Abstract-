@@ -12,10 +12,13 @@ namespace TeacherSick
 
         public int Number_of_days { get; set; }
 
-        public isSick(string name, int days)
+        public int ID { get; set; }
+
+        public isSick(string name, int days, int id)
         {
            this.Teacher_Name = name;
             this.Number_of_days = days;
+            this.ID = id;
         }
     }
 }

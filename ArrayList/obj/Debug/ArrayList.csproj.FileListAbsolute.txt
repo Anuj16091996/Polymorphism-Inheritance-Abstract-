@@ -1,0 +1,6 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\ArrayList\obj\Debug\ArrayList.pdb

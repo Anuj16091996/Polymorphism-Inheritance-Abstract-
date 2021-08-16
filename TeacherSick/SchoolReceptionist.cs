@@ -8,19 +8,33 @@ namespace TeacherSick
 {
     class SchoolReceptionist
     {
-     
 
+        public event EventHandler<isSick> Teacher_Sick;
+        public string Teacher_Name { get; set; }
 
-        public SchoolReceptionist(Teacher teacher)
+        public int Number_of_days { get; set; }
+
+        public int ID { get; set; }
+
+        public SchoolReceptionist( Teacher name,int days)
         {
+            Teacher_Name=name.Teacher_Name;
+            this.Number_of_days = days;
+            this.ID = name.ID;
+      
+        }
 
-            teacher.Teacher_Sick += AddTeacherLeave;
-        }
-    
-        public void AddTeacherLeave(object sender,isSick e)
+        public void Teacher_Sicks()
         {
-            Teacher t1 = (Teacher)sender;
-            Console.WriteLine("Teacher Name- {0} , Number of Days- {1} ",e.Teacher_Name,e.Number_of_days);   
+            if (Teacher_Sick != null)
+            {
+           
+                Teacher_Sick(this, new isSick(this.Teacher_Name, Number_of_days,ID));
+            }
         }
+
+
+
+        
     }
 }
