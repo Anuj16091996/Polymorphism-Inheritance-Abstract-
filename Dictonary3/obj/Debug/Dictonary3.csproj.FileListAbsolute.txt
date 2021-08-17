@@ -1,0 +1,6 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Dictonary3\bin\Debug\Dictonary3.exe.config
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Dictonary3\bin\Debug\Dictonary3.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Dictonary3\bin\Debug\Dictonary3.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Dictonary3\obj\Debug\Dictonary3.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Dictonary3\obj\Debug\Dictonary3.exe
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Dictonary3\obj\Debug\Dictonary3.pdb
