@@ -1,0 +1,29 @@
+﻿<Window x:Class="LoginWindow.TransactionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginWindow"
+        mc:Ignorable="d"
+        Title="TransactionWindow" Height="400" Width="800" WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <TextBox x:Name="Account_Number" BorderBrush="Snow"
+                 HorizontalContentAlignment="Center"
+                 HorizontalAlignment="Left" Height="46"
+                 VerticalContentAlignment="Center" IsReadOnly="True"
+                 Margin="36,58,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178"/>
+        <TextBox x:Name="Balance_Show" BorderBrush="Snow"
+                 HorizontalContentAlignment="Center"
+                 VerticalContentAlignment="Center" IsReadOnly="True"
+                 HorizontalAlignment="Left" Height="46" 
+                 Margin="561,58,0,0" TextWrapping="Wrap" 
+                 Text="" VerticalAlignment="Top" Width="178"/>
+        <TextBox x:Name="Edit_Bala" HorizontalAlignment="Left"
+                 HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+                 Height="147" Margin="149,131,0,0"
+                 TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="472"/>
+        <Button Content="Deposit" HorizontalAlignment="Left" Height="38" Margin="149,308,0,0" VerticalAlignment="Top" Click="Deposit" Width="107"/>
+        <Button Content="Withdraw" HorizontalAlignment="Left" Height="38" Margin="331,308,0,0" VerticalAlignment="Top" Click="Withdraw" Width="107"/>
+        <Button Content="Logout" HorizontalAlignment="Left" Height="38" Margin="514,308,0,0" VerticalAlignment="Top" Click="Logout" Width="107" RenderTransformOrigin="1.493,0.824"/>
+    </Grid>
+</Window>

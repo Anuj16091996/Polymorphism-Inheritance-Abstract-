@@ -1,0 +1,6 @@
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model_Exam\bin\Debug\Model_Exam.dll
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model_Exam\bin\Debug\Model_Exam.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model_Exam\obj\Debug\Model_Exam.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model_Exam\obj\Debug\Model_Exam.dll
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model_Exam\obj\Debug\Model_Exam.pdb
+C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Model_Exam\obj\Debug\Model_Exam.csproj.AssemblyReference.cache
